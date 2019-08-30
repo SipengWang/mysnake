@@ -1,5 +1,5 @@
 # mysnake
-Create my own snake game
+Create my own snake game<br>
 Linux terminal game based on C++
 
 # How to Excute
